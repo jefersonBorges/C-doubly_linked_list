@@ -1,8 +1,8 @@
-# About
+# 💬 About
 
 These exercises are a practice of C language inside the discipline of data structure 1, belonging to the course of Computer Engineering.
 
-## content
+## 👨🏽‍💻 C Content
 
 - doubly linked list
 - pointers
@@ -14,6 +14,12 @@ These exercises are a practice of C language inside the discipline of data struc
 - fflush()
 - strcmp()
 - free()
+
+---
+
+## 🎯 Project objectives
+
+- Practice of C language doubly linked lists.
 
 ---
 
